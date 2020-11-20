@@ -6,32 +6,32 @@ from scipy.signal import detrend
 import mne
 
 def findEvents(data):
-  f = open('rp360-30.txt', 'a', encoding="utf8")
-  bandPower = np.array([0, 0, 0, 0])
+  f = open('rp36o.txt', 'a', encoding="utf8")
+  bandPower = np.array([0, 0, 0, 0, 0])
 
-  # delta, _ = mne.time_frequency.psd_welch(data, n_per_seg=250 ,fmin=0.5, fmax=4)
+  delta, _ = mne.time_frequency.psd_welch(data, n_per_seg=250 ,fmin=1, fmax=4)
   theta, _ = mne.time_frequency.psd_welch(data, n_per_seg=250 ,fmin=4, fmax=8)
   alfa, _ = mne.time_frequency.psd_welch(data, n_per_seg=250 ,fmin=8, fmax=13)
   beta, _ = mne.time_frequency.psd_welch(data, n_per_seg=250 ,fmin=13, fmax=32)
   gamma, _ = mne.time_frequency.psd_welch(data, n_per_seg=250 ,fmin=32, fmax=100)
 
-  # bandPower[0] = np.average(delta)
-  bandPower[0] = np.average(theta)
-  bandPower[1] = np.average(alfa)
-  bandPower[2] = np.average(beta)
-  bandPower[3] = np.average(gamma)
+  bandPower[0] = np.average(delta)
+  bandPower[1] = np.average(theta)
+  bandPower[2] = np.average(alfa)
+  bandPower[3] = np.average(beta)
+  bandPower[4] = np.average(gamma)
 
   # returns an array with the index of the 2 highest values
   maxValueIdx = (-bandPower).argsort()[:2]
 
   # checks if the Alpha has the highest value
-  if (maxValueIdx[0] == 1):
+  if (maxValueIdx[0] == 2):
     maxValue = bandPower[maxValueIdx[0]]
     minValue = bandPower[maxValueIdx[1]]
     f.write('\n Ritmos Alpha \n')
     f.write(str(minValue*100/maxValue))
   # checks if the Beta has the highest value
-  elif (maxValueIdx[0] == 2):
+  elif (maxValueIdx[0] == 3):
     maxValue = bandPower[maxValueIdx[0]]
     minValue = bandPower[maxValueIdx[1]]
     f.write('\n Ritmos Beta \n')
@@ -52,15 +52,15 @@ def main():
 
   while True:
     # sample1, _ = inlet.pull_chunk(timeout=8, max_samples=250) #
-    sample1, _ = inlet.pull_chunk(timeout=1, max_samples=250) # timeout=3 / timeout=1.5
-    # sample2, _ = inlet.pull_chunk(timeout=2.7, max_samples=250) #
-    # sample3, _ = inlet.pull_chunk(timeout=2.7, max_samples=250) #
+    sample1, _ = inlet.pull_chunk(timeout=1.0, max_samples=250) # timeout=3 / timeout=1.5
+    sample2, _ = inlet.pull_chunk(timeout=1.0, max_samples=250) #
+    sample3, _ = inlet.pull_chunk(timeout=1.0, max_samples=250) #
 
     sample1 = np.array(sample1)
-    # sample2 = np.array(sample2)
-    # sample3 = np.array(sample3)
+    sample2 = np.array(sample2)
+    sample3 = np.array(sample3)
 
-    # sample1 = np.concatenate((sample1, sample2, sample3))
+    sample1 = np.concatenate((sample1, sample2, sample3))
     sample = np.transpose(sample1)
 
     raw = mne.io.RawArray(sample, info)
