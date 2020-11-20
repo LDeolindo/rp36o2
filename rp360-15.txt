@@ -1,0 +1,1257 @@
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+
+ Ritmos Beta 
+66.66666666666667
+ Ritmos Beta 
+41.17647058823530 
+
+ Ritmos Beta 
+61.538461538461540 
+
+ Ritmos Beta 
+32.25806451612903
+ Ritmos Beta 
+69.230769230769230 
+0 
+
+ Ritmos Beta 
+100.0
+ Ritmos Beta 
+39.285714285714285
+ Ritmos Alpha 
+87.5
+ Ritmos Beta 
+63.15789473684210 
+0 
+0 
+
+ Ritmos Alpha 
+40.0
+ Ritmos Alpha 
+75.0
+ Ritmos Alpha 
+9.090909090909092
+ Ritmos Alpha 
+25.00 
+
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+28.571428571428573
+ Ritmos Alpha 
+40.0
+ Ritmos Alpha 
+16.666666666666668
+ Ritmos Alpha 
+42.857142857142854
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+11.11111111111111
+ Ritmos Alpha 
+10.0
+ Ritmos Alpha 
+28.5714285714285730 
+
+ Ritmos Alpha 
+23.076923076923077
+ Ritmos Alpha 
+30.76923076923077
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+41.666666666666664
+ Ritmos Alpha 
+22.22222222222222
+ Ritmos Alpha 
+6.666666666666667
+ Ritmos Alpha 
+37.5
+ Ritmos Alpha 
+28.571428571428573
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+44.44444444444444
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+19.047619047619047
+ Ritmos Alpha 
+11.11111111111111
+ Ritmos Alpha 
+28.5714285714285730 
+
+ Ritmos Alpha 
+28.5714285714285730 
+0 
+
+ Ritmos Alpha 
+33.3333333333333360 
+
+ Ritmos Alpha 
+50.00 
+0 
+
+ Ritmos Alpha 
+42.857142857142854
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+66.666666666666670 
+0 
+0 
+
+ Ritmos Alpha 
+80.0
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+18.181818181818183
+ Ritmos Alpha 
+62.50 
+0 
+
+ Ritmos Alpha 
+80.0
+ Ritmos Alpha 
+36.36363636363637
+ Ritmos Alpha 
+13.043478260869565
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+12.5
+ Ritmos Alpha 
+12.5
+ Ritmos Alpha 
+10.0
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+54.54545454545455
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+66.66666666666667
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+75.00 
+0 
+
+ Ritmos Alpha 
+71.428571428571430 
+
+ Ritmos Alpha 
+71.428571428571430 
+0 
+
+ Ritmos Alpha 
+33.3333333333333360 
+
+ Ritmos Alpha 
+66.66666666666667
+ Ritmos Alpha 
+66.66666666666667
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+12.5
+ Ritmos Alpha 
+28.571428571428573
+ Ritmos Alpha 
+9.090909090909092
+ Ritmos Alpha 
+20.00 
+
+ Ritmos Alpha 
+22.22222222222222
+ Ritmos Alpha 
+42.857142857142854
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+9.090909090909092
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+42.857142857142854
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+66.66666666666667
+ Ritmos Alpha 
+66.66666666666667
+ Ritmos Alpha 
+12.5
+ Ritmos Alpha 
+9.090909090909092
+ Ritmos Alpha 
+13.333333333333334
+ Ritmos Alpha 
+12.50 
+
+ Ritmos Alpha 
+28.571428571428573
+ Ritmos Alpha 
+21.428571428571427
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+15.384615384615385
+ Ritmos Alpha 
+18.181818181818183
+ Ritmos Alpha 
+18.181818181818183
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+80.0
+ Ritmos Alpha 
+75.0
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+12.5
+ Ritmos Alpha 
+7.142857142857143
+ Ritmos Alpha 
+16.666666666666668
+ Ritmos Alpha 
+11.11111111111111
+ Ritmos Alpha 
+60.0
+ Ritmos Alpha 
+14.285714285714286
+ Ritmos Alpha 
+5.882352941176471
+ Ritmos Alpha 
+15.384615384615385
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+14.285714285714286
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+30.00 
+0 
+
+ Ritmos Alpha 
+30.0
+ Ritmos Alpha 
+50.00 
+
+ Ritmos Alpha 
+60.00 
+0 
+
+ Ritmos Alpha 
+12.5
+ Ritmos Alpha 
+50.00 
+0 
+
+ Ritmos Alpha 
+28.571428571428573
+ Ritmos Alpha 
+7.142857142857143
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+18.181818181818183
+ Ritmos Alpha 
+18.181818181818183
+ Ritmos Alpha 
+16.6666666666666680 
+0 
+
+ Ritmos Alpha 
+16.666666666666668
+ Ritmos Alpha 
+38.46153846153846
+ Ritmos Alpha 
+40.0
+ Ritmos Alpha 
+18.181818181818183
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+28.571428571428573
+ Ritmos Alpha 
+11.11111111111111
+ Ritmos Alpha 
+75.0
+ Ritmos Alpha 
+66.66666666666667
+ Ritmos Alpha 
+87.5
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+16.666666666666668
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+42.857142857142854
+ Ritmos Alpha 
+6.451612903225806
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+11.111111111111110 
+
+ Ritmos Alpha 
+16.666666666666668
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+58.333333333333336
+ Ritmos Alpha 
+27.272727272727273
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+66.66666666666667
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+54.54545454545455
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+8.333333333333334
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+42.857142857142854
+ Ritmos Alpha 
+16.666666666666668
+ Ritmos Alpha 
+28.571428571428573
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+23.529411764705884
+ Ritmos Alpha 
+42.857142857142854
+ Ritmos Alpha 
+28.571428571428573
+ Ritmos Alpha 
+16.666666666666668
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+33.3333333333333360 
+0 
+
+ Ritmos Alpha 
+15.789473684210526
+ Ritmos Alpha 
+27.272727272727273
+ Ritmos Alpha 
+11.11111111111111
+ Ritmos Alpha 
+6.666666666666667
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+75.0
+ Ritmos Alpha 
+11.11111111111111
+ Ritmos Alpha 
+14.285714285714286
+ Ritmos Alpha 
+50.00 
+0 
+
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+18.181818181818183
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+28.571428571428573
+ Ritmos Alpha 
+12.5
+ Ritmos Alpha 
+22.22222222222222
+ Ritmos Alpha 
+6.666666666666667
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+12.5
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+12.5
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+28.571428571428573
+ Ritmos Alpha 
+40.0
+ Ritmos Alpha 
+28.571428571428573
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+14.285714285714286
+ Ritmos Alpha 
+16.666666666666668
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+60.00 
+
+ Ritmos Alpha 
+75.0
+ Ritmos Alpha 
+17.647058823529413
+ Ritmos Alpha 
+37.5
+ Ritmos Alpha 
+22.22222222222222
+ Ritmos Alpha 
+42.857142857142854
+ Ritmos Alpha 
+70.0
+ Ritmos Alpha 
+6.666666666666667
+ Ritmos Alpha 
+28.571428571428573
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+45.45454545454545
+ Ritmos Alpha 
+55.55555555555556
+ Ritmos Alpha 
+30.0
+ Ritmos Alpha 
+30.0
+ Ritmos Alpha 
+16.666666666666668
+ Ritmos Alpha 
+41.666666666666664
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+57.142857142857146
+ Ritmos Alpha 
+23.076923076923077
+ Ritmos Alpha 
+61.53846153846154
+ Ritmos Alpha 
+8.333333333333334
+ Ritmos Alpha 
+13.333333333333334
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+11.764705882352942
+ Ritmos Alpha 
+35.714285714285715
+ Ritmos Alpha 
+13.043478260869565
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+53.333333333333336
+ Ritmos Alpha 
+55.555555555555560 
+
+ Ritmos Alpha 
+66.66666666666667
+ Ritmos Alpha 
+46.15384615384615
+ Ritmos Alpha 
+75.00 
+
+ Ritmos Alpha 
+66.666666666666670 
+
+ Ritmos Alpha 
+15.00 
+
+ Ritmos Alpha 
+41.666666666666664
+ Ritmos Alpha 
+12.5
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+27.272727272727273
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+41.666666666666664
+ Ritmos Alpha 
+14.285714285714286
+ Ritmos Alpha 
+10.0
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+18.181818181818183
+ Ritmos Alpha 
+26.666666666666668
+ Ritmos Alpha 
+35.714285714285715
+ Ritmos Alpha 
+18.181818181818183
+ Ritmos Alpha 
+37.5
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+66.66666666666667
+ Ritmos Alpha 
+40.0
+ Ritmos Alpha 
+66.66666666666667
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+15.384615384615385
+ Ritmos Alpha 
+10.0
+ Ritmos Alpha 
+40.0
+ Ritmos Alpha 
+22.22222222222222
+ Ritmos Alpha 
+12.5
+ Ritmos Alpha 
+75.0
+ Ritmos Alpha 
+18.181818181818183
+ Ritmos Alpha 
+42.8571428571428540 
+
+ Ritmos Alpha 
+42.857142857142854
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+9.090909090909092
+ Ritmos Alpha 
+37.5
+ Ritmos Alpha 
+8.333333333333334
+ Ritmos Alpha 
+40.0
+ Ritmos Alpha 
+77.77777777777777
+ Ritmos Alpha 
+58.333333333333336
+ Ritmos Alpha 
+30.76923076923077
+ Ritmos Alpha 
+23.076923076923077
+ Ritmos Alpha 
+66.66666666666667
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+7.6923076923076925
+ Ritmos Alpha 
+19.047619047619047
+ Ritmos Alpha 
+23.076923076923077
+ Ritmos Alpha 
+18.181818181818183
+ Ritmos Alpha 
+8.3333333333333340 
+
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+10.0
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+22.22222222222222
+ Ritmos Alpha 
+21.428571428571427
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+80.0
+ Ritmos Alpha 
+15.384615384615385
+ Ritmos Alpha 
+16.666666666666668
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+14.285714285714286
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+13.333333333333334
+ Ritmos Alpha 
+40.0
+ Ritmos Alpha 
+33.3333333333333360 
+
+ Ritmos Alpha 
+18.181818181818183
+ Ritmos Alpha 
+22.727272727272727
+ Ritmos Alpha 
+21.428571428571427
+ Ritmos Alpha 
+69.23076923076923
+ Ritmos Alpha 
+38.46153846153846
+ Ritmos Alpha 
+85.71428571428571
+ Ritmos Alpha 
+12.5
+ Ritmos Alpha 
+9.090909090909092
+ Ritmos Alpha 
+11.764705882352942
+ Ritmos Alpha 
+22.22222222222222
+ Ritmos Alpha 
+28.571428571428573
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+37.5
+ Ritmos Alpha 
+10.0
+ Ritmos Alpha 
+20.00 
+
+ Ritmos Alpha 
+27.272727272727273
+ Ritmos Alpha 
+27.272727272727273
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+10.0
+ Ritmos Alpha 
+0.0
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+12.5
+ Ritmos Alpha 
+13.333333333333334
+ Ritmos Alpha 
+18.75
+ Ritmos Alpha 
+45.454545454545450 
+0 
+0 
+0 
+
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+33.3333333333333360 
+0 
+
+ Ritmos Alpha 
+15.384615384615385
+ Ritmos Alpha 
+15.384615384615385
+ Ritmos Alpha 
+13.333333333333334
+ Ritmos Alpha 
+70.0
+ Ritmos Alpha 
+27.2727272727272730 
+0 
+0 
+0 
+
+ Ritmos Alpha 
+22.22222222222222
+ Ritmos Alpha 
+75.0
+ Ritmos Alpha 
+40.0
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+4.3478260869565215
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+11.11111111111111
+ Ritmos Alpha 
+25.00 
+
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+40.0
+ Ritmos Alpha 
+22.22222222222222
+ Ritmos Alpha 
+22.22222222222222
+ Ritmos Alpha 
+8.333333333333334
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+16.666666666666668
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+13.3333333333333340 
+
+ Ritmos Alpha 
+30.76923076923077
+ Ritmos Alpha 
+60.0
+ Ritmos Alpha 
+11.11111111111111
+ Ritmos Alpha 
+40.00 
+0 
+
+ Ritmos Alpha 
+28.5714285714285730 
+
+ Ritmos Alpha 
+83.33333333333333
+ Ritmos Alpha 
+7.142857142857143
+ Ritmos Alpha 
+40.0
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+50.00 
+
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+17.647058823529413
+ Ritmos Alpha 
+8.333333333333334
+ Ritmos Alpha 
+44.44444444444444
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+6.25
+ Ritmos Alpha 
+28.571428571428573
+ Ritmos Alpha 
+6.25
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+33.3333333333333360 
+0 
+0 
+
+ Ritmos Alpha 
+66.66666666666667
+ Ritmos Alpha 
+50.00 
+
+ Ritmos Alpha 
+20.00 
+
+ Ritmos Alpha 
+7.6923076923076925
+ Ritmos Alpha 
+10.0
+ Ritmos Alpha 
+12.5
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+14.285714285714286
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+22.22222222222222
+ Ritmos Alpha 
+13.333333333333334
+ Ritmos Alpha 
+11.538461538461538
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+9.090909090909092
+ Ritmos Alpha 
+28.571428571428573
+ Ritmos Alpha 
+40.0
+ Ritmos Alpha 
+75.0
+ Ritmos Alpha 
+10.0
+ Ritmos Alpha 
+13.333333333333334
+ Ritmos Alpha 
+50.00 
+
+ Ritmos Alpha 
+40.00 
+0 
+0 
+0 
+
+ Ritmos Alpha 
+6.666666666666667
+ Ritmos Alpha 
+12.5
+ Ritmos Alpha 
+25.00 
+
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+6.25
+ Ritmos Alpha 
+12.5
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+18.181818181818183
+ Ritmos Alpha 
+9.090909090909092
+ Ritmos Alpha 
+12.5
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+40.0
+ Ritmos Alpha 
+22.22222222222222
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+20.00 
+
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+22.22222222222222
+ Ritmos Alpha 
+6.666666666666667
+ Ritmos Alpha 
+28.571428571428573
+ Ritmos Alpha 
+10.0
+ Ritmos Alpha 
+27.272727272727273
+ Ritmos Alpha 
+28.571428571428573
+ Ritmos Alpha 
+42.857142857142854
+ Ritmos Alpha 
+83.33333333333333
+ Ritmos Alpha 
+6.666666666666667
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+13.333333333333334
+ Ritmos Alpha 
+13.333333333333334
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+30.0
+ Ritmos Alpha 
+23.076923076923077
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+40.0
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+7.6923076923076925
+ Ritmos Alpha 
+10.0
+ Ritmos Alpha 
+11.764705882352942
+ Ritmos Alpha 
+22.22222222222222
+ Ritmos Alpha 
+18.75
+ Ritmos Alpha 
+9.090909090909092
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+28.571428571428573
+ Ritmos Alpha 
+36.36363636363637
+ Ritmos Alpha 
+80.0
+ Ritmos Alpha 
+14.285714285714286
+ Ritmos Alpha 
+37.5
+ Ritmos Alpha 
+41.666666666666664
+ Ritmos Alpha 
+36.36363636363637
+ Ritmos Alpha 
+37.5
+ Ritmos Alpha 
+28.571428571428573
+ Ritmos Alpha 
+33.3333333333333360 
+0 
+
+ Ritmos Alpha 
+16.666666666666668
+ Ritmos Alpha 
+13.333333333333334
+ Ritmos Alpha 
+37.5
+ Ritmos Alpha 
+5.0
+ Ritmos Alpha 
+40.0
+ Ritmos Alpha 
+36.363636363636370 
+
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+7.142857142857143
+ Ritmos Alpha 
+80.00 
+
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+4.545454545454546
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+17.647058823529413
+ Ritmos Alpha 
+30.0
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+66.66666666666667
+ Ritmos Alpha 
+28.5714285714285730 
+
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+16.666666666666668
+ Ritmos Alpha 
+80.0
+ Ritmos Alpha 
+30.00 
+0 
+0 
+
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+10.0
+ Ritmos Alpha 
+46.15384615384615
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+16.666666666666668
+ Ritmos Alpha 
+0.0
+ Ritmos Alpha 
+66.666666666666670 
+
+ Ritmos Alpha 
+16.666666666666668
+ Ritmos Alpha 
+42.857142857142854
+ Ritmos Alpha 
+66.666666666666670 
+0 
+
+ Ritmos Alpha 
+28.571428571428573
+ Ritmos Alpha 
+66.66666666666667
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+28.571428571428573
+ Ritmos Alpha 
+21.428571428571427
+ Ritmos Alpha 
+11.11111111111111
+ Ritmos Alpha 
+9.090909090909092
+ Ritmos Alpha 
+23.076923076923077
+ Ritmos Alpha 
+8.333333333333334
+ Ritmos Alpha 
+50.00 
+0 
+0 
+0 
+
+ Ritmos Alpha 
+10.0
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+42.8571428571428540 
+
+ Ritmos Alpha 
+22.22222222222222
+ Ritmos Alpha 
+50.00 
+0 
+0 
+0 
+0 
+
+ Ritmos Alpha 
+40.0
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+17.391304347826086
+ Ritmos Alpha 
+80.0
+ Ritmos Alpha 
+9.0909090909090920 
+
+ Ritmos Alpha 
+55.55555555555556
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+15.384615384615385
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+27.2727272727272730 
+0 
+0 
+0 
+
+ Ritmos Alpha 
+66.666666666666670 
+0 
+0 
+
+ Ritmos Alpha 
+42.857142857142854
+ Ritmos Alpha 
+11.11111111111111
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+27.272727272727273
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+25.00 
+
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+6.666666666666667
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+41.666666666666664
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+11.11111111111111
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+50.0
+ Ritmos Alpha 
+16.666666666666668
+ Ritmos Alpha 
+60.0
+ Ritmos Alpha 
+22.22222222222222
+ Ritmos Alpha 
+7.142857142857143
+ Ritmos Alpha 
+11.11111111111111
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+66.66666666666667
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+25.0
+ Ritmos Alpha 
+21.428571428571427
+ Ritmos Alpha 
+11.11111111111111
+ Ritmos Alpha 
+14.2857142857142860 
+0 
+0 
+0 
+
+ Ritmos Alpha 
+33.333333333333336
+ Ritmos Alpha 
+40.00 
+
+ Ritmos Alpha 
+8.333333333333334
+ Ritmos Alpha 
+30.0
+ Ritmos Alpha 
+10.0
+ Ritmos Alpha 
+11.11111111111111
+ Ritmos Alpha 
+7.6923076923076925
+ Ritmos Alpha 
+11.11111111111111
+ Ritmos Alpha 
+20.0
+ Ritmos Alpha 
+5.2631578947368425
+ Ritmos Alpha 
+8.5714285714285710 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
